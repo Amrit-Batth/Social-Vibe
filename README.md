@@ -1,4 +1,5 @@
-# Social-Vibe
+## Social-Vibe ##
+
 
 # User Authentication:
 
